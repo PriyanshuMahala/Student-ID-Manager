@@ -1,8 +1,0 @@
-ENTRY : 1
-[NAME]: duck
-[ID] : 993
-[MARKS] : 87
-ENTRY : 1
-[NAME]: Prem Chand
-[ID] : 123456
-[MARKS] : 98
