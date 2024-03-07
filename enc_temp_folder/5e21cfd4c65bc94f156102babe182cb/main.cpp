@@ -12,7 +12,7 @@ struct students
 };
 
 void options() {
-    std::cout << "Options are: Add Entry, Remove Entry, Find Entry, Print Entry, Exit\n";
+    std::cout << "Options are: Add Entry, Remove Entry, Find Entry,Print Entries, Exit\n";
 }
 
 template<typename T>
