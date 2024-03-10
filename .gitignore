@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Student-ID-Manager/entryNum.txt
+/Student-ID-Manager/ENTRIES.txt
